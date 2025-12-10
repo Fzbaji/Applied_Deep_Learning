@@ -1,6 +1,6 @@
 # Applied Deep Learning - Parcours Complet
 
-## 📚 Vue d'ensemble
+## Vue d'ensemble
 
 Ce repository constitue un **parcours pédagogique complet** couvrant les architectures fondamentales du Deep Learning, de la régression simple aux réseaux de neurones avancés (CNN, RNN, LSTM), avec applications pratiques sur des problématiques variées : classification d'images, analyse de séries temporelles et traitement du langage naturel.
 
@@ -112,7 +112,7 @@ Analyse de sentiment avec **7 architectures NLP** :
 
 ---
 
-## 🎯 Objectifs Pédagogiques
+## Objectifs Pédagogiques
 
 ### **Compétences Techniques**
 ✅ Implémentation from scratch et utilisation de frameworks (TensorFlow/Keras)  
@@ -135,7 +135,7 @@ Analyse de sentiment avec **7 architectures NLP** :
 
 ---
 
-## 🚀 Technologies Utilisées
+## Technologies Utilisées
 
 | Framework | Usage |
 |-----------|-------|
@@ -149,7 +149,7 @@ Analyse de sentiment avec **7 architectures NLP** :
 
 ---
 
-## 📊 Méthodologie
+## Méthodologie
 
 Chaque livrable suit une structure cohérente :
 
